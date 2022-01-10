@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "v1ch04/StaticTest",
+        "v1ch03/FirstSample",
+        "v1ch03/CompoundInterest",
+        "v1ch03/BigIntegerTest",
+        "v1ch02/ImageViewer"
+    ]
+}
