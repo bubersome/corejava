@@ -9,4 +9,9 @@ public class FirstSample
    {
       System.out.println("We will not use 'Hello, World!'");
    }
+
+   public FirstSample() {
+   }
+   
+
 }
