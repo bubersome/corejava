@@ -1,9 +1,15 @@
 {
     "java.project.sourcePaths": [
+        "v1ch06/anonymousInnerClass",
         "v1ch04/StaticTest",
+        "v1ch04/EmployeeTest",
+        "v1ch04/ConstructorTest",
+        "v1ch04/CalendarTest",
         "v1ch03/FirstSample",
         "v1ch03/CompoundInterest",
         "v1ch03/BigIntegerTest",
-        "v1ch02/ImageViewer"
+        "v1ch02/Welcome",
+        "v1ch02/ImageViewer",
+        "v1ch05/abstractClasses"
     ]
 }
